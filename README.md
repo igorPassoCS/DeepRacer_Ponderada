@@ -52,15 +52,13 @@ Nesse sentido, a escolha por funções matemáticas exponenciais negativas para 
 
 Além disso, a estrutura matemática escolhida justifica-se pela capacidade de interligar os objetivos do carrinho de forma orgânica. Ao multiplicar os fatores de centralização, suavidade de direção e o fator de velocidade no cálculo final, o carrinho compreende que a aceleração só é devidamente recompensada se executada com o volante alinhado e o carro bem posicionado. Dessa forma, a arquitetura garante que a velocidade seja aprendida como uma consequência direta da precisão e estabilidade contínuas.
 
-<figure>
-    <video src="assets/ponderada-cc10-s02-02-training.mp4"controls width="55%"></video>
-    <figcaption>Evidência das fases iniciais do treinamento da segunda versão, exploração inicial. </figcaption>
-</figure>
+[🎥 Vídeo de Treinamento da Segunda Versão](./assets/ponderada-cc10-s02-02-training.mp4)
+> *Evidência das fases iniciais do treinamento da segunda versão, exploração inicial.*
 
-<figure>
-    <video src="assets/ponderada-cc10-s02-02-evaluating.mp4"controls width="55%"></video>
-    <figcaption>Evidência da fase final de avaliação da segunda versão, completando a pista de forma fluída e suave. </figcaption>
-</figure>
+<br>
+
+[🎥 Vídeo de Avaliação da Segunda Versão](./assets/ponderada-cc10-s02-02-evaluating.mp4)
+> *Evidência da fase final de avaliação da segunda versão, completando a pista de forma fluída e suave.*
 
 ## Análise do Comportamento Observado e Comparações
 
