@@ -24,12 +24,12 @@ Para garantir que essa busca por velocidade não resultasse em um comportamento 
 
 Por fim, a lógica por trás do incentivo de aceleração consolida essa estratégia: o bônus que multiplica a recompensa em 1.5 vezes exige que o carro esteja a uma velocidade maior que 2.0 e com o volante praticamente reto (ângulo menor que 5 graus). Aliado a isso, a adição de um bônus de eficiência baseado na proporção de progresso por passos tomados (`progress / steps`) direciona o agente a buscar trajetórias mais curtas e rápidas, equilibrando a agressividade na conclusão do trajeto com as travas conservadoras de direção.
 
-[🎥 Vídeo do estágio de Treinamento](./assets/ponderada-cc10-s02-01-training.mp4)
+[🎥 Vídeo do estágio de Treinamento da Primeira Versão](./assets/ponderada-cc10-s02-01-training.mp4)
 > *Evidência das fases iniciais do treinamento na primeira versão, onde o carrinho ainda dá uns tipos de saltos e não anda de forma fluida.*
 
 <br>
 
-[🎥 Vídeo do estágio de Avaliação](./assets/ponderada-cc10-s02-01-evaluating.mp4)
+[🎥 Vídeo do estágio de Avaliação da Primeira Versão](./assets/ponderada-cc10-s02-01-evaluating.mp4)
 > *Evidência da fase final de avaliação da primeira versão.*
 
 
